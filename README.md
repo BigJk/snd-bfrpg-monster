@@ -1,5 +1,5 @@
 # snd-bfrpg-monster
-[Basic Fantasy RPG](http://basicfantasy.org) [SRD](http://basicfantasy.org/srd/) Monster data for S&amp;D
+[Basic Fantasy RPG](http://basicfantasy.org) [SRD](http://basicfantasy.org/srd/) Monster data for [Sales &amp; Dungeons](https://github.com/BigJk/snd)
 
 ## License
 
